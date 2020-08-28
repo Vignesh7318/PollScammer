@@ -1,4 +1,4 @@
-# polltabhacker
+#pollscammer
 Just a simple py script which increases votes in polltab.
 
 
